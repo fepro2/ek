@@ -1,0 +1,23 @@
+{
+    "port": "COM8",
+    "baud_rate": 250000,
+    "tare_value": 928.4017328361483,
+    "calibration_load_g": 385.0,
+    "calibration_load": 1413.619694830156,
+    "record_duration": 7,
+    "taring_duration": 30,
+    "calibration_duration": 30,
+    "calibration": false,
+    "taring": false,
+    "filter_order_1": 8,
+    "filter_cutoff_frequency_1": 10.0,
+    "filter_order_2": 4,
+    "filter_cutoff_frequency_2": 2.0,
+    "static_averaging_steps": -100,
+    "recording": true,
+    "save_raw_measurement": true,
+    "path_raw_measurement": "raw/test.json",
+    "save_results": true,
+    "event_name": "25g_17_pieces_fruit_gum_AD620",
+    "lowest_frequency_hz": 1.5
+}
